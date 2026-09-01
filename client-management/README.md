@@ -1,4 +1,4 @@
-# 👥 Client & Stakeholder Management
+#Client & Stakeholder Management
 
 ## Overview
 
